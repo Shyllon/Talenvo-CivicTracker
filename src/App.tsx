@@ -8,9 +8,9 @@ import ContributionForm from './components/ContributionForm';
 // Sample data
 const politicians = [
   {
-    name: 'Sarah Mwangi',
-    party: 'Progressive Alliance',
-    constituency: 'Nairobi Central',
+    name: 'Folake John',
+    party: 'All Progressives Congress',
+    constituency: 'Abuja Central',
     imageUrl: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Implemented free school lunch program',
@@ -24,9 +24,9 @@ const politicians = [
     ],
   },
   {
-    name: 'John Ochieng',
-    party: 'Unity Party',
-    constituency: 'Mombasa North',
+    name: 'Okpokwu Emmanuel',
+    party: 'Peoples Democratic Party',
+    constituency: 'Abuja North',
     imageUrl: 'https://images.unsplash.com/photo-1566492031773-4f4e44671857?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Established water treatment facility',
@@ -41,8 +41,8 @@ const politicians = [
   },
   {
     name: 'Amina Hassan',
-    party: 'Democratic Reform Party',
-    constituency: 'Garissa Township',
+    party: 'New Nigeria People Party',
+    constituency: 'Abuja Township',
     imageUrl: 'https://images.unsplash.com/photo-1589156280159-27698a70f29e?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Established women empowerment centers',
@@ -56,9 +56,9 @@ const politicians = [
     ],
   },
   {
-    name: 'David Kimani',
-    party: 'National Progress Party',
-    constituency: 'Nakuru East',
+    name: 'Chinedu Praise Ebube',
+    party: 'Labour Party',
+    constituency: 'Abuja East',
     imageUrl: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Modernized local market infrastructure',
@@ -72,9 +72,9 @@ const politicians = [
     ],
   },
   {
-    name: 'Elizabeth Njeri',
-    party: 'Social Democratic Union',
-    constituency: 'Kiambu Central',
+    name: 'Benita Mbulu',
+    party: 'Young Progressives Party',
+    constituency: 'Abuja Central',
     imageUrl: 'https://images.unsplash.com/photo-1551836022-deb4988cc6c0?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Healthcare digitization project',
@@ -88,9 +88,9 @@ const politicians = [
     ],
   },
   {
-    name: 'Michael Otieno',
-    party: 'People\'s Alliance',
-    constituency: 'Kisumu West',
+    name: 'Afolabi Raphael Tijjani',
+    party: 'African Democratic Congress',
+    constituency: 'Abuja West',
     imageUrl: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=800',
     accomplishments: [
       'Lake Victoria conservation project',
